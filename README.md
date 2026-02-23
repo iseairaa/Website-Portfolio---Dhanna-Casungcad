@@ -1,4 +1,5 @@
 **Project Overview**
+
 This project portfolio is a dynamic website that aims to showcase an intuitive frontend design and logical functionality. 
 
 The site is divided into 5 parts: 
